@@ -1,0 +1,3 @@
+include ':blurry'
+include ':app'
+rootProject.name = "BlurryAllVertion"
